@@ -20,6 +20,18 @@ module.exports = {
     "jest": true
   },
   "rules": {
+    "indent": [
+      "error",
+      4
+    ],
+    "react/jsx-indent": [
+        "error",
+        4
+    ],
+    "react/jsx-indent-props": [
+        "error",
+        4
+    ],
     "no-debugger": 0,
     "no-alert": 0,
     "no-await-in-loop": 0,
