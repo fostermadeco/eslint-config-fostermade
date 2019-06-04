@@ -138,3 +138,11 @@ To do the above for local, omit the `--global` flag.
 Then if you are using a local install, remove your `package-lock.json` file and delete the `node_modules/` directory.
 
 Then follow the above instructions again.
+
+## Publishing Changes
+
+Using 'alpha.x' suffix for versions beyond the original forked repo.
+
+```
+git tag -a v0.0.19-alpha.2 -m "v0.0.19-alpha.2" && git push origin v0.0.19-alpha.2 && npm publish
+```
