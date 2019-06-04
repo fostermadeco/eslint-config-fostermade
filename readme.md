@@ -6,7 +6,7 @@ These are our settings for ESLint and Prettier (that we stole and altered from W
 * Fixes issues and formatting errors with Prettier
 * Lints + Fixes inside of html script tags
 * Lints + Fixes React via eslint-config-airbnb
-* You can see all the [rules here](https://github.com/fostermade/eslint-config-fostermade/blob/master/.eslintrc.js)
+* You can see all the [rules here](https://github.com/fostermadeco/eslint-config-fostermade/blob/master/.eslintrc.js)
 
 ## Installing
 
