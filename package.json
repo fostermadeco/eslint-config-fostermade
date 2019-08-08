@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-fostermade",
-    "version": "0.0.19-alpha.5",
+    "version": "0.0.19-alpha.6",
     "description": "ESLint and Prettier Config for Foster Made (adopted from Wes Bos)",
     "keywords": [
         "javascript",
